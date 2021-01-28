@@ -116,7 +116,7 @@
     "docx": "^5.0.0-rc7",
     "echarts": "^4.5.0",
     "echarts-for-react": "^2.0.15-beta.1",
-    "electron": "^6.1.4",
+    "electron": "^9.4.0",
     "electron-builder": "^21.2.0",
     "electron-debug": "^3.0.1",
     "electron-is-dev": "^1.1.0",
